@@ -14,7 +14,9 @@ The dashboard highlights passenger trends, operational performance, airport acti
 The analytics suite contains **4 dashboards**:
 
 ### 1️⃣ Overview Dashboard
-Provides a high-level operational snapshot:
+Provides a high-level operational snapshot.
+
+**KPIs**
 - **Total Passengers**
 - **Total Flights**
 - **Total Revenue**
@@ -27,7 +29,7 @@ Each KPI includes:
 - Monthly Passenger Trend (Line Chart)
 - Monthly Flights Performed (Bar Chart)
 - Passengers by Airline (Bar Chart)
-- Flights by Distance Range (Pie Chart)
+- Flights by Distance Range (Donut Chart)
 - Average Load Factor Trend (Area Chart)
 
 ### Dashboard Preview  
@@ -36,7 +38,9 @@ Each KPI includes:
 ---
 
 ### 2️⃣ Performance Analysis Dashboard
-Focuses on operational efficiency and service quality:
+Focuses on operational efficiency and service quality.
+
+**KPIs**
 - **Average Load Factor**
 - **On-Time Performance** *(Based on Departures Scheduled vs Performed)*
 - **Seat Utilization**
@@ -72,11 +76,11 @@ The dashboard uses a **button-based dynamic navigation system** with 3 sections:
 - Airport Activity Details (Table)
 
 #### 🗺️ States Section
-- Passenger Volume by State (Bar)
-- State Traffic Distribution (Top 8) – Pie Chart *(using Ramp-to-Ramp Time instead of Passengers)*
+- Passenger Volume by State (Bar Chart)
+- State Traffic Distribution (Top 3) – (Pie Chart) *(using Ramp-to-Ramp Time instead of Passengers)*
 
 #### 🔁 Top Routes Section
-- Top 15 Routes by Passenger Volume
+- Top 15 Routes by Passenger Volume (Bar Chart)
 - Route Performance Details (Table)
 
 ### Dashboard Preview  
