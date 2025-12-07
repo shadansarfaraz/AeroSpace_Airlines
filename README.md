@@ -15,8 +15,6 @@ The dashboard highlights passenger trends, operational performance, airport acti
 ## ⭐ S — Situation  
 Airline operational and passenger data was fragmented, making it difficult for stakeholders to understand route performance, airport activity, seasonal trends, and overall operational efficiency.
 
----
-
 ## 🎯 T — Task  
 Build a unified, interactive Tableau analytics suite that delivers:
 - Executive-level KPIs  
@@ -24,12 +22,8 @@ Build a unified, interactive Tableau analytics suite that delivers:
 - Global filtering across dashboards  
 - Professional UI, smooth interaction, and clear data storytelling  
 
----
-
 ## 🛠️ A — Action  
 Created a **4-dashboard analytical system** using advanced Tableau features, custom calculations, and dynamic navigation.
-
----
 
 ## 🚀 R — Result  
 Delivered an **executive-ready analytics suite** that enables:  
