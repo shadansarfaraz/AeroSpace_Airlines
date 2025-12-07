@@ -114,6 +114,7 @@ _Data Analyst_
 
 🔗 [LinkedIn Profile](http://www.linkedin.com/in/shadantech)  
 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadan.sarfaraz/vizzes)
+
 🔗 [Newsletter](https://shadantech.substack.com/)
 
 ---
