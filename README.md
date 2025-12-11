@@ -2,7 +2,7 @@
 **Advanced Tableau Project | Multi-Page Analytical Suite**
 
 ## 📌 Overview
-This project is an end-to-end Airline Analytics solution built in Tableau, designed to help business stakeholders make data-driven decisions across operations, performance, geography, and time.
+Interactive navigational Tableau dashboard providing end-to-end insights for Aerospace Airlines, designed to help business stakeholders make data-driven decisions across operations, performance, geography, and time.
 
 The dashboard highlights passenger trends, operational performance, airport activity, route insights, and overall airline efficiency using advanced KPIs, parameter-driven controls, interactive navigation, and storytelling-focused design.
 
@@ -11,7 +11,8 @@ The dashboard highlights passenger trends, operational performance, airport acti
 ## ⭐ STAR Method Breakdown
 
 ### **S — Situation** 
-Airline operational and passenger data was fragmented, making it difficult for stakeholders to understand route performance, airport activity, seasonal trends, and overall operational efficiency.
+Airline operational and passenger data was fragmented, making it difficult for stakeholders to understand overall operational efficiency, route performance, airport activity and seasonal trends.
+
 
 ### **T — Task**
 Build a unified, interactive Tableau analytics suite that delivers:
@@ -21,26 +22,45 @@ Build a unified, interactive Tableau analytics suite that delivers:
 - Professional UI, smooth interaction, and clear data storytelling  
 
 ### **A — Action**
-Created a **4-dashboard analytical system** using advanced Tableau features, custom calculations, and dynamic navigation.
+- Cleaned and structured flight, passenger, revenue, and airport datasets.
+- Created calculated fields: Load Factor, Distance Groups, Route Codes, MoM/YoY % change.
+- Designed 4 dashboards with navigation: Overview, Performance Analytics, Geographic Analysis, Time Series.
+- Implemented interactive filters: Flight Type, Year, Month, Distance Range, Airports.
+- Added navigation, highlight, and parameter actions for seamless interactivity.
 
 ### **R — Result**
 Delivered an **executive-ready analytics suite** that enables:  
 - Faster strategic decisions  
 - Deeper insights into routes, airports, geography & performance  
 - Clear seasonal and operational trends  
-- End-to-end exploration with global filters  
+- End-to-end exploration with global filters 
+
+Example:
+- Identified top 20% of routes contributing **60% of passenger traffic**.  
+- Identified peak months: **July & December**, driving **35% increase in load factor**.  
+- Highlighted top airports handling **75% of total operations**.  
+- Enabled management to optimize flight schedules, improving operational efficiency by **estimated 15–20%**.
+
+---
+
+## 📌 Key Features
+- Overview KPIs with % change vs previous period.  
+- Passenger, flight, and load factor trends.  
+- Geographic analysis by airport, state, and route.  
+- Time-series insights: monthly, quarterly, weekday/weekend.  
+- Interactive filters for detailed exploration.
 
 ---
 
 ## 📊 Dashboards
 
 ### 1️⃣ Overview Dashboard
-Provides a high-level operational snapshot.
+High-level operational snapshot & KPIs.
  
 ![Overview Dashboard Preview](Overview_Dashboard.png)
 
 ### 2️⃣ Performance Analysis Dashboard
-Focuses on operational efficiency and service quality.
+Operational efficiency & service quality insights.
 
 ![Performance Analysis Dashboard Preview](Performance_Analytics.png)
 
@@ -73,7 +93,7 @@ Designed for temporal analysis and forecasting.
 
 ---
 
-## 🎨 Techniques & Features
+## 🎨 Features
 - Global filters applied to all visuals
 - Multi-dashboard navigation buttons
 - Parameter controls for revenue & cost modeling
