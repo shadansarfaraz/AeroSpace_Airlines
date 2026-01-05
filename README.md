@@ -13,7 +13,6 @@ The dashboard highlights passenger trends, operational performance, airport acti
 ### **S — Situation** 
 Airline operational and passenger data was fragmented, making it difficult for stakeholders to understand overall operational efficiency, route performance, airport activity and seasonal trends.
 
-
 ### **T — Task**
 Build a unified, interactive Tableau analytics suite that delivers:
 - Executive-level KPIs  
