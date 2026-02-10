@@ -116,7 +116,7 @@ This dashboard transforms complex airline data into clear, actionable insights t
 ---
 
 ## 👤 Author
-**Shadan Tech**   
+**Shadan**   
 _Data Analyst_
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shadansarfaraz1)  
